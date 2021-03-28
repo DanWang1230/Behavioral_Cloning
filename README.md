@@ -10,4 +10,4 @@ Here are the steps to run this project on local machine. I have tested them on M
 
 There might be some errors with keras versions. Just keep the version you installed in the evrionment and the version the same.
 
-4. In debugging, my car didn't move in autonomous control mode. A **solution** to this issue is to downgrade the python-socketio to 4.2.1
+4. In debugging, my car didn't move in autonomous control mode. A **solution** to this issue is to downgrade the python-socketio to 4.2.1. I found this solution [here](https://github.com/udacity/self-driving-car-sim/issues/131).

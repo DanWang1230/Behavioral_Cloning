@@ -1,6 +1,6 @@
 # Behavioral_Cloning
 
-Here are the steps to run this project on local machine. I have tested them on Mac and Unbuntu.
+Here are the steps to run this project on **local machine**. I have tested them on Mac and Unbuntu.
 
 1. Download the car simulator from [here](https://github.com/udacity/self-driving-car-sim#available-game-builds-precompiled-builds-of-the-simulator) in Term 1. Both version 1 and version 2 will work.
 

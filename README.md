@@ -5,6 +5,7 @@ The goals/steps of this project are the following:
 * Build a convolution neural network in Keras that predicts steering angles from images
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around track one without leaving the road
+* A video output can be found [here](https://youtu.be/t1qFLgl_1zs).
 
 [//]: # (Image References)
 
